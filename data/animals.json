@@ -144,6 +144,15 @@
         "loving"
       ],
       "id": "14"
+    },
+    {
+      "name": "Max",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
